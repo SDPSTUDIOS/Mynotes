@@ -26,6 +26,13 @@
       "name": "Terminal 1",
       "color": "",
       "cwd": "D:\\Swinburne\\4th Year 2nd Sem\\Mynotes",
+      "bufferSerial": "\r\nD:\\Swinburne\\4th Year 2nd Sem\\Mynotes>git status \r\n\u001b[33mTerminal binaries not installed.\r\n\u001b[0mGo to Settings → Terminal to download them.\u001b[1B\u001b[20D\u001b[?1004h",
+      "closedAt": 1785976821541
+    },
+    {
+      "name": "Terminal 1",
+      "color": "",
+      "cwd": "D:\\Swinburne\\4th Year 2nd Sem\\Mynotes",
       "bufferSerial": "\r\n\u001b[33mTerminal binaries not installed.\r\n\u001b[0mGo to Settings → Terminal to download them.\u001b[1B\u001b[43D",
       "closedAt": 1785976041510
     }
