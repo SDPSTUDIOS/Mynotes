@@ -23,6 +23,13 @@
   "recentSessionsMax": 10,
   "recentSessions": [
     {
+      "name": "Terminal 2",
+      "color": "",
+      "cwd": "/Users/senithuperera/Desktop/Mynotes",
+      "bufferSerial": "senithuperera@Pahuruthotas-MacBook-Air Mynotes % \u001b[1B\u001b[49D\u001b[?2004h",
+      "closedAt": 1785976884667
+    },
+    {
       "name": "Terminal 1",
       "color": "",
       "cwd": "D:\\Swinburne\\4th Year 2nd Sem\\Mynotes",
