@@ -36,4 +36,3 @@ Repeat loops are native for only Kotlin
 ## Assignment Hint
 
 - Use Null safety
-- 
