@@ -16,6 +16,9 @@ Kotlin feature
 
 Repeat loops are native for only Kotlin
 
+## Classes and Constructors
+![[Screenshot 2026-08-11 162137.png]]
+
 ### Null Safety
 - In kotlin a variable cannot be default to null
 	- `var number_of_students: Int? = null` this is accepted
