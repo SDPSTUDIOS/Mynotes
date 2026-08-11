@@ -1,6 +1,6 @@
 AI engineering means, applying engineering principles to AI systems
 
-### AI Model Life Cycle Phases
+## AI Model Life Cycle Phases
 
 Problem Definition
 Data Collection and preparation
