@@ -9,12 +9,14 @@ Why google advocating Kotlin for Android development
 
 Kotlin feature
 - Semicolon is optional
-- datatype after variable name
+- datatype after variable name  =  `var Name_of_variable: Int = 200`
 - Class members public unless declared private
+	- Java is `protected` by default, regardless of being built on top Java kotlin flips this around
 - Null safety
+	- `var user_name: String? = "Senithu Perera"`
 - Data classes
 
-Repeat loops are native for only Kotlin
+Repeat loops are native for only to Kotlin
 
 ## Classes and Constructors
 ![[Screenshot 2026-08-11 162137.png]]
