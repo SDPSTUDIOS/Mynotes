@@ -14,7 +14,7 @@ These will help
 
 Emulator vs Simulators
 - Android has Emulator and IOS and Simulator
-- Simulators are up fast and good enouth
+- Simulators are up fast and good enough
 - Emulators - allow checking against different versions of the OS easily, and are closer to the phone hardware
 
 ## When making an App in android app
