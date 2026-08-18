@@ -4,7 +4,7 @@ When the phone rings the call has the highest priority - Call pause or eco mode
 
 Android and IOS is considered as Frameworks in this unit atleast
 
-ART is the managed runtime environment used by Android to execute apps. It replaced the older Dalvik runtime starting with Android 5.0 (Lollipop) as the default.
+ART is the managed runtime environment used by Android to execute apps. It replaced the older Devkit runtime starting with Android 5.0 (Lollipop) as the default.
 
 These will help 
 - Event Handeling
